@@ -1,3 +1,3 @@
 # Lessons
 Javascript lessons
-1.Setup bootstrap, jquery, php, myadmin
+1.Setup bootstrap, jquery, php, and myadmin
